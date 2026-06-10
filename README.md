@@ -107,5 +107,5 @@ This project is for **educational purposes only**. The paper trading simulation 
 
 ## 👨‍💻 Author
 
-**Nav** — B.Tech AI & ML, Symbiosis Institute of Technology, Pune  
+**Naveen Ladha** — B.Tech AI & ML, Symbiosis Institute of Technology, Pune  
 GitHub: [@Navld14](https://github.com/Navld14)
